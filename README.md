@@ -5,8 +5,7 @@ Requires LGPO - which is available as part of the MSFT Security Compliance Toolk
 
 Not recommended for any kind of serious use in production, this is for use in testing only.
 
-Based heavily on content drawn from:
-
+Based heavily on content drawn from:<br>
 https://docs.microsoft.com/en-us/windows/security/threat-protection/security-compliance-toolkit-10/<br>
 https://github.com/NVISOsecurity/posh-dsc-windows-hardening/<br>
 https://github.com/teusink/Home-Security-by-W10-Hardening/<br>
