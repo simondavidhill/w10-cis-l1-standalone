@@ -3,7 +3,7 @@ Collection of (.reg|.pol|.csv|.inf) files sufficient to statically configure a W
 
 Based heavily on content frawn from:
 
-https://docs.microsoft.com/en-us/windows/security/threat-protection/security-compliance-toolkit-10
+https://docs.microsoft.com/en-us/windows/security/threat-protection/security-compliance-toolkit-10/
 https://github.com/NVISOsecurity/posh-dsc-windows-hardening/
 https://github.com/teusink/Home-Security-by-W10-Hardening/
 https://gist.github.com/alirobe/7f3b34ad89a159e6daa1
