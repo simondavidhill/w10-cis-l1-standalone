@@ -1,7 +1,7 @@
 # w10-cis-l1-standalone
 Collection of (.reg|.pol|.csv|.inf) files sufficient to statically configure a W10 Ent host to around 90% compliance with W10 20H2 CIS L1 baseline (as measured by [CIS-CAT Lite v4](https://www.cisecurity.org/blog/introducing-cis-cat-lite/) tool)
 
-Requires LGPO - which is available as part of the MSFT Security Compliance Toolkithttps://www.microsoft.com/en-us/download/details.aspx?id=55319
+Requires LGPO - which is available as part of the MSFT Security Compliance Toolkit https://www.microsoft.com/en-us/download/details.aspx?id=55319
 
 Not recommended for any kind of serious use in production, this is for use in testing only.
 
